@@ -1,0 +1,62 @@
+.header-container{
+    height: 5rem;
+    background-color: black;
+
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.link_container{
+    height: 5rem;
+    display: flex;
+
+    align-items: center;
+    margin-left: 5.7rem;
+}
+.logo{
+    margin-bottom: 1.5rem;
+    width: 7.1rem;
+}
+.menu_st {
+ 
+    color: white;
+    font-size: 14px;
+    padding-top: 4px;
+    cursor: pointer;
+
+}
+.menu_icon_first{
+    font-size: 2rem !important;
+    cursor: pointer;
+    color: white;
+    margin-left: 4rem;
+}
+
+.form-body{
+    width: 450px !important;
+    height: 40px;
+    background-color: white;
+    /* margin-top: 5px; */
+    /* margin-bottom: 4px; */
+    border-radius: 5px;
+    margin-left: 3rem;
+}
+
+input {
+    width: 90%;
+    height: 100%;
+    outline: none;
+    padding-left: 20px;
+    border: none;
+    background-color: transparent;
+}
+
+.ac-container{
+    display: flex;
+    justify-content: space-between;
+    width: 73vw;
+}
+.user-icon{
+    margin:0px 25px;
+    
+}

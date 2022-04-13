@@ -1,0 +1,21 @@
+
+
+@import url('http://fonts.cdnfonts.com/css/gotham');
+
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gotham",serif, 'Gotham Black', 'Gotham Light',  'Gotham Thin', 
+   'Gotham XLight', 'Gotham Book', 'Gotham Ultra', sans-serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(19, 16, 16);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

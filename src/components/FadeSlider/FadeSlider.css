@@ -1,0 +1,17 @@
+
+
+.slick-dots li.slick-active button:before {
+  opacity: .75;
+  color: #fdfdfd !important;
+}
+.slick-dots li button:before {
+  font-size: 14px !important;
+  color: white !important;
+}
+
+/* .previcons .slick-arrow .slick-next{
+  display: none !important;
+} */
+.previcons .slick-arrow.slick-next{
+  display: none !important;
+}

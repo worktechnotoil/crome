@@ -1,0 +1,15 @@
+.layz_load{
+    width: 40%;
+    margin: auto;
+}
+
+.container-body{
+    display: flex;
+    justify-content: center;
+}
+
+.headline{
+    color: white;
+    margin-left: 9rem;
+    margin-bottom: 2px;
+}
